@@ -23,3 +23,6 @@ This script was made for you by **BebikDEV**. We will be glad for any support on
 https://www.youtube.com/watch?v=OgyI1AqS8S4
 
 Credits for video: **GamingCZE11**
+
+## Browser / StackBlitz preview
+This resource can be previewed as a normal static site. StackBlitz can run `npm start` automatically from `package.json`. FiveM ignores `package.json` and `.stackblitzrc`.

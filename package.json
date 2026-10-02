@@ -1,0 +1,12 @@
+{
+  "name": "rvrp-loadingscreen",
+  "version": "2.0.1",
+  "private": true,
+  "description": "Redwood Valley Roleplay FiveM loading screen with browser/StackBlitz preview support",
+  "scripts": {
+    "start": "serve . -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
